@@ -1,0 +1,49 @@
+/* body{
+    background-color: #F8F2EF;
+} */
+
+/* Header section */
+
+.header-container{
+    padding: 0;
+    margin:0;
+}
+
+.coral {
+    background-color: #ff4c68;
+    /* height: 400px; */
+    max-width: 0%;
+}
+
+.header{
+    padding: 7% 0%;
+    text-align: right;
+}
+
+.intro-text{
+    padding:15%;
+    text-align: justify;
+}
+
+#final{
+    padding: 10%;
+}
+
+/* collage section */
+
+/* #collage{
+    background-color: #fff;
+} */
+
+/* radial graph */
+.grid-line {
+    stroke: #dadadd;
+}
+
+.tick-label {
+    dominant-baseline: middle;
+    fill: #8395a7;
+    font-size: 0.7em;
+    /* font-weight: 900; */
+    letter-spacing: 0.005em;
+}
